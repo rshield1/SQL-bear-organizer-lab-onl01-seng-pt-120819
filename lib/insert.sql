@@ -6,4 +6,4 @@ VALUES ("Mr. Cholocate", 22, "Male", "Brown", "Calm", 1),
 ("Melissa", 2, "Female", "Black", "Loner", 0),
 ("Grinch", 54, "Male", "Brown", "Aggressive", 1),
 ("Wendy", 19, "Female", "White", "Calm", 1),
-(NIL, 22, "Male", "Brown", "Calm", 1),;
+(NULL, 99, "Male", "Gray", "Unpredictable", 0),;
